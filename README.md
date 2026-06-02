@@ -1,5 +1,10 @@
 # GAME351-Assignment-01
 Group Assignment 1 for GAME351, Game Design in Unity
+Group Members:
+Ashe Bedonie
+Amarus Almodova
+TaMya S. Reliford
+Ethan Thomas
 
 Controls: WASD, mouselook
 Requires: Probuilder, Jammo (Robot Player), various tree prefabs(?)
